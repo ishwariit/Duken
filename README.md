@@ -1,2 +1,2 @@
-# Dukan
-Local Store.
+# Duken
+Local Retail Store.
